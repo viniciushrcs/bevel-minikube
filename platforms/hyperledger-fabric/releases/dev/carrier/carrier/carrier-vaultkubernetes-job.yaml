@@ -27,7 +27,7 @@ spec:
     vault:
       reviewer_service: vault-reviewer
       role: vault-role
-      address: http://localhost:8200
+      address: http://200.137.0.21:8200
       authpath: demo-fabriccarrier-net-auth
       policy: vault-crypto-peer-carrier-net-ro
       secret_path: secret
