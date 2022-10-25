@@ -30,7 +30,7 @@ spec:
       address: http://200.137.0.21:8200
       authpath: demo-fabriccarrier-net-auth
       policy: vault-crypto-peer-carrier-net-ro
-      secret_path: secret
+      secret_path: secretsv2
       serviceaccountname: vault-auth
       imagesecretname: regcred
     
