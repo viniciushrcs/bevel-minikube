@@ -27,7 +27,7 @@ spec:
     vault:
       reviewer_service: vault-reviewer
       role: vault-role
-      address: http://localhost:8200
+      address: http://200.137.0.21:8200
       authpath: demo-fabricsupplychain-net-auth
       policy: vault-crypto-orderer-supplychain-net-ro
       secret_path: secret
