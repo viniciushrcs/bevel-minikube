@@ -27,7 +27,7 @@ spec:
 
     vault:
       role: vault-role
-      address: http://localhost:8200
+      address: http://200.137.0.21:8200
       authpath: demo-fabricsupplychain-net-auth
       secretcryptoprefix: secret/data/crypto/ordererOrganizations/supplychain-net/ca
       secretcredentialsprefix: secret/data/credentials/supplychain-net/ca/supplychain
